@@ -1,0 +1,12 @@
+.item-list-container {
+    grid-column: 2;
+    grid-row: 2;
+    background-color: black;
+    text-align: center;
+    align-self: center;
+  }   
+  .item-list-container-title {
+        font-size: 3.4rem;
+        font-weight: 700;
+        color:white;
+  }
